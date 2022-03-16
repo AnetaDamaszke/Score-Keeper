@@ -1,3 +1,11 @@
 .buttons {
     display: block;
 }
+
+.winner {
+    color: green;
+}
+
+.looser {
+    color: red;
+}
